@@ -6,7 +6,7 @@ const Footer = () => {
     <div className='pt-10 px-4 md:px-20 lg:px-32 bg-gray-900 w-full  overflow-hidden' id='Footer'>
         <div className='container mx-auto flex flex-col md:flex-row justify-between items-center'>
             <div className='w-full md:w-1/3 mb-8 md:mb-0'>
-                <img src={assets.logo_dark} alt="" />
+                <img className='h-[260px] w-[300px] ' src={assets.Logomain} alt="" />
                 <p className='text-gray-400 mt-4'>
                 With years of experience in the Lucknow real estate market, our team has in-depth knowledge of local property trends, pricing, and upcoming developments.
                 </p>

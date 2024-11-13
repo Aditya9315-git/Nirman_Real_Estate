@@ -34,6 +34,7 @@ import project15 from './Projects1(16).jpeg'
 import project16 from './Projects 1(15).jpeg'
 import project17 from './Projects1(17).jpeg'
 import users from './users.jpg'
+import Logomain from './1.png'
 
 
 
@@ -57,6 +58,7 @@ export const assets = {
     project2,
     project3,
     project4,
+    Logomain,
     project5,
     project6,
     project7,

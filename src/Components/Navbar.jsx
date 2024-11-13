@@ -24,7 +24,7 @@ const Navbar = () => {
         whileInView={{opacity:1, y:0}}
         viewport={{once:true}}
          className='container mx-auto flex justify-between items-center py-4 px-6 md:px-20 lg:px-32 bg-transparent'>
-            <img src={assets.logo} alt="" />
+            <img className='h-24 w-36 rounded-lg' src={assets.Logomain} alt="" />
             <ul className='hidden md:flex gap-7 text-white'>
                 <a href="#Header" className='cursor-pointer hover:text-gray-400'>Home</a>
                 <a href="#About" className='cursor-pointer hover:text-gray-400'>About</a>
